@@ -1,4 +1,4 @@
-import{j as e,L as r}from"./index-c3912b78.js";import"./anchor-link-0ae6a742.js";const o=({onRouteChange:t,selectedPage:s})=>e.jsxs("footer",{className:`bg-blue-900// bg-gradient-to-b from-blue-700 to-teal-500 \r
+import{j as e,L as r}from"./index-7ec513a2.js";import"./anchor-link-6dda4c7d.js";const o=({onRouteChange:t,selectedPage:s})=>e.jsxs("footer",{className:`bg-blue-900// bg-gradient-to-b from-blue-700 to-teal-500 \r
                         md:py-16 px-4   text-gray-100 w-full\r
     `,children:[e.jsxs("div",{className:` justify-content mx-auto w-full md:gap-16 gap-4 flex flex-col \r
                       md:flex-row  `,children:[e.jsxs("div",{className:`mt-16 basis-2/4 md:mt-0 flex flex-col items-start \r

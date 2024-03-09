@@ -1,4 +1,4 @@
-var l=Object.defineProperty;var d=(n,t,e)=>t in n?l(n,t,{enumerable:!0,configurable:!0,writable:!0,value:e}):n[t]=e;var a=(n,t,e)=>(d(n,typeof t!="symbol"?t+"":t,e),e);import{R as c,j as s,L as h,H as m,e as g}from"./index-c3912b78.js";const o="http://localhost:8000",p=`py-1 text-[30px] bg-gradient-to-b from-blue-700 to-teal-500
+var l=Object.defineProperty;var d=(n,t,e)=>t in n?l(n,t,{enumerable:!0,configurable:!0,writable:!0,value:e}):n[t]=e;var a=(n,t,e)=>(d(n,typeof t!="symbol"?t+"":t,e),e);import{R as c,j as s,L as h,H as m,e as g}from"./index-7ec513a2.js";const o="https://dsmart-backend.onrender.com",p=`py-1 text-[30px] bg-gradient-to-b from-blue-700 to-teal-500
                       py-3 px-6 text-white rounded-lg opacity-[0.9]
                       w-full outline-y-slate-700 flex justify-between items-center shadow-md 
                   `,x=` h-fit py-11 rounded-md flex flex-col justify-center items-center  

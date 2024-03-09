@@ -33,7 +33,8 @@ import FollowUp from './scenes/followup/index.jsx';
 
 
 
-const SERVERURL = `http://localhost:8000`;
+// const SERVERURL = `http://localhost:8000`;
+const SERVERURL = `https://dsmart-backend.onrender.com`;
 const BackButton = ({ onRouteChange }) => {
   const handleGoBack = () => {
     // console.log("handlegoback works")

@@ -10,7 +10,8 @@ import React from 'react';
 import '../../App.css'
 import Logo from '../../shared/Logo';
 
-const SERVERURL = `http://localhost:8000`;
+// const SERVERURL = `http://localhost:8000`;
+const SERVERURL = `https://dsmart-backend.onrender.com`;
 const navClasses = `py-1 text-[30px] bg-gradient-to-b from-blue-700 to-teal-500
                       py-3 px-6 text-white rounded-lg opacity-[0.9]
                       w-full outline-y-slate-700 flex justify-between items-center shadow-md 

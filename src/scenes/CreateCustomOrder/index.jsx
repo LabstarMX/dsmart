@@ -4,7 +4,8 @@ import './index.css'
 import Logo from '../../shared/Logo';
 
 
-const SERVERURL = `http://localhost:8000`;
+// const SERVERURL = `http://localhost:8000`;
+const SERVERURL = `https://dsmart-backend.onrender.com`;
 const initialState = {
     id: '',
     type: '',
